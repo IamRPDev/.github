@@ -39,4 +39,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 If you have any questions or concerns regarding this Privacy Policy, please contact us via the issue tracker in the relevant repository or at:
 
 **Esoteric Root Collective**
-Attn: Richard P. Dissell
+Attn: IAmRPDev
