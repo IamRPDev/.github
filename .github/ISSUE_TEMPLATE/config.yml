@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Build & Compilation Fleet (RPDevs-Builds)
+    url: https://github.com/RPDevs-Builds/kodi-build/issues
+    about: Please report general compilation issues, builder errors, or dependency build failures here.
+  - name: Vault Infrastructure Command Center (RPDevs-Vault)
+    url: https://github.com/RPDevs-Vault/vault-manager/issues
+    about: Please report organization-wide architecture issues, security governance bugs, or synchronization questions here.

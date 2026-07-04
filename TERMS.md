@@ -8,7 +8,7 @@ By downloading, installing, accessing, or using any software, scripts, or servic
 ## 2. Open Source Licensing
 Unless otherwise specified by a specific open-source license (such as the GNU GPLv3) included within a specific repository, the Software is provided under these general Terms of Use. Where a specific open-source license is provided in the repository (e.g., in a `LICENSE` file), the terms of that specific license shall govern the distribution, modification, and use of the Software, while Section 3 and Section 4 of this document shall strictly govern our liability.
 
-## 3. Disclaimer of Warrantiesd
+## 3. Disclaimer of Warranties
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, OR UNINTERRUPTED. YOU ASSUME FULL RESPONSIBILITY FOR SELECTING THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE INSTALLATION, USE, AND RESULTS OBTAINED FROM IT.
 
 ## 4. Limitation of Liability
