@@ -24,7 +24,7 @@ If applicable, paste terminal outputs, action execution logs, or redacted config
 ### Environment Details
 - OS / Platform: [e.g., Windows 11, Linux, macOS, OpenWRT]
 - Target Architecture: [e.g., amd64, arm64]
-- Relevant Repository: [e.g., kodi-build, vault-manager]
+- Relevant Repository: [e.g., kodi-build, ops-manager]
 
 ### Additional Context
 Add any other context about the problem here.
